@@ -1,0 +1,54 @@
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+- Stealth Rock  
+- Soft-Boiled  
+- Aromatherapy  
+- Seismic Toss  
+
+Sableye (M) @ Sablenite  
+Ability: Prankster  
+EVs: 252 HP / 76 Def / 180 SpD  
+Impish Nature  
+- Will-O-Wisp  
+- Toxic  
+- Knock Off  
+- Recover  
+
+Skarmory (F) @ Shed Shell  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Defog  
+- Roost  
+- Counter  
+- Spikes  
+
+Amoonguss (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 188 Def / 68 SpD  
+Bold Nature  
+- Spore  
+- Giga Drain  
+- Clear Smog  
+- Sludge Bomb  
+
+Quagsire (M) @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Curse  
+- Recover  
+- Earthquake  
+- Waterfall  
+
+Weavile (F) @ Choice Band  
+Ability: Pickpocket  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Knock Off  
+- Pursuit  
+- Icicle Crash  
+

@@ -1,0 +1,57 @@
+Ninjask @ Liechi Berry  
+Ability: Speed Boost  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Substitute  
+- Protect  
+- Swords Dance  
+- Baton Pass  
+
+Smeargle @ Salac Berry  
+Ability: Own Tempo  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Spore  
+- Belly Drum  
+- Baton Pass  
+
+Scizor @ Chesto Berry  
+Ability: Swarm  
+EVs: 252 HP / 128 Def / 128 Spe  
+Impish Nature  
+- Swords Dance  
+- Iron Defense  
+- Rest  
+- Baton Pass  
+
+Marowak @ Thick Club  
+Ability: Rock Head  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Rock]  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Substitute  
+- Thunder Wave  
+- Thunderbolt  
+- Hidden Power [Grass]  
+
+Mr. Mime @ Leftovers  
+Ability: Soundproof  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Encore  
+- Taunt  
+- Light Screen  
+- Baton Pass  
+

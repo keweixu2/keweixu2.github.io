@@ -1,0 +1,55 @@
+Salamence @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Brick Break  
+- Hidden Power [Flying]  
+- Earthquake  
+- Rock Slide  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Aerial Ace  
+- Hidden Power [Bug]  
+- Rock Slide  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 252 Atk / 240 Def / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 252 Atk / 4 Def / 252 SpD  
+Adamant Nature  
+- Curse  
+- Return  
+- Shadow Ball  
+- Self-Destruct  
+
+Breloom @ Leftovers  
+Ability: Effect Spore  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Spore  
+- Substitute  
+- Focus Punch  
+- Leech Seed  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Substitute  
+- Metal Sound  
+- Thunderbolt  
+- Hidden Power [Fire]  
+
